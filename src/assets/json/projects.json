@@ -1,0 +1,64 @@
+[
+    {
+        "title": "TnShop",
+        "paragraph": "full Stack application for E-commerce",
+        "tools": [
+            {
+                "title": "Spring Boot"
+            },
+            {
+                "title": "Angular 10"
+            },
+            {
+                "title": "MySql"
+            },
+            {
+                "title": "BootStrap"
+            },
+            {
+                "title":"Jwt"
+            },
+            {
+                "title":"Spring Security"
+            }
+            ,
+            {
+                "title":"Stripe"
+            }
+        ],
+        "img": "/assets/img/spring.png",
+        "github": "https://github.com/NesrineKata/SpringBootproject"
+    },
+    {
+        "title": "Falcon Tunisia",
+        "paragraph": "Video surveillance Desktop Application ",
+        "tools": [
+            {
+                "title": "Python"
+            },
+            {
+                "title": "Qt"
+            },
+            {
+                "title": "Computer Vision"
+            },
+            {
+                "title": "Machine Learning"
+            }
+        ],
+        "img": "/assets/img/python.png",
+        "github": "https://github.com/NesrineKata/VideoSurveillance"
+    },
+    {
+        "title": "CollegeHelper",
+        "paragraph": "School management system desktop application.",
+        "tools": [
+            {
+                "title": "C"
+            }
+            
+        ],
+        "img": "/assets/img/cProject.png",
+        "github": "https://github.com/NesrineKata/CProject"
+    }
+]

@@ -1,4 +1,4 @@
-# PortfolioTemplate
+# Portfolio
 
 Template for an Angular application (Portfolio).
 

@@ -1,6 +1,6 @@
 # PortfolioTemplate
 
-Template for an Angular application, using Firebase as a backend, displaying the website.
+Template for an Angular application.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
